@@ -1,0 +1,8 @@
+{
+  "name": "KeywordNexus AI",
+  "description": "The ultimate AI-powered keyword research and SEO strategy tool leveraging Gemini for deep search intent analysis and Google Search/Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
